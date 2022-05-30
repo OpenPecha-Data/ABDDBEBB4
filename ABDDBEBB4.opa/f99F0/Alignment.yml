@@ -1,0 +1,16 @@
+segment_sources:
+  IADB5D5D0:
+    type: origin_type
+    relation: translation
+    language: en
+  I4C226982:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  4271d0681c3f44a38aab500942cd44fb:
+    IADB5D5D0: 5328ba27ad6b4b969939bb671690a01a
+    I4C226982: 284dfb7a8e314197bd8d4859134fc2e4
+  abde40fb4998402ab73dbf8f52e93979:
+    IADB5D5D0: 4e0cc6d80a1146a886643abfd85c0817
+    I4C226982: d18401f6f1ae4b54ab4cf68b87e93a84
